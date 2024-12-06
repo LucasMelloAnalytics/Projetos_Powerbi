@@ -57,7 +57,7 @@ Diversas medidas foram criadas para atender aos requisitos de análise, dividida
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-- **Power BI:** Para ETL, modelagem e visualização dos dados.
+- **Power BI:** Modelagem e visualização dos dados.
 - **Power Query:** Para o tratamento inicial dos dados.
 
 ---
