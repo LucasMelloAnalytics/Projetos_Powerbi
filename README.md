@@ -17,8 +17,8 @@ Os dados foram importados de arquivos CSV e tratados no Power Query. As ações 
 - Combinação das colunas **Nome** e **Sobrenome** em uma única coluna.
 
 ### 2. **Modelagem de Dados**
-- Utilizou-se o formato **Snowflake** para a modelagem dos dados.
-- Criou-se uma **Dimensão Tempo** para facilitar análises temporais.
+- Utilizei o formato **Snowflake** para a modelagem dos dados.
+- Criei uma **Dimensão Tempo** para facilitar análises temporais.
 
 ### 3. **Definição de KPIs e Visualizações**
 Após analisar os requisitos do projeto:
