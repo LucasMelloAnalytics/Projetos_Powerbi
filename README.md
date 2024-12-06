@@ -91,7 +91,7 @@ Utilizei o **`SWITCH`** em conjunto com uma **variável** para criar uma medida 
 1. Faça o download do arquivo `.pbix` presente neste repositório.
 2. Abra o arquivo no Power BI Desktop.
 3. Explore o dashboard interativo e os visuais.
-4. Ou acesso o esse link - > [Dash_AnaliseDeResultados](https://app.powerbi.com/view?r=eyJrIjoiODM4YTZlYzktM2Y1MC00OTZhLWFjYmUtZDcyZWQ4YTBjYzMxIiwidCI6IjFlZTQ1Y2QyLTUzMTMtNDBjOS1hYTJlLTJhZDg2MDkwMmQ3MCJ9))
+4. Ou acesso o esse link - > [Dash_AnaliseDeResultados](https://app.powerbi.com/view?r=eyJrIjoiODM4YTZlYzktM2Y1MC00OTZhLWFjYmUtZDcyZWQ4YTBjYzMxIiwidCI6IjFlZTQ1Y2QyLTUzMTMtNDBjOS1hYTJlLTJhZDg2MDkwMmQ3MCJ9)
 
 ---
 
