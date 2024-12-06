@@ -96,6 +96,11 @@ Utilizei o **`SWITCH`** em conjunto com uma **variável** para criar uma medida 
 ---
 
 ## 🖼️ Demonstração
+![image](https://github.com/user-attachments/assets/d6940000-cab0-45fc-8851-25f4578ad8b6)
+![image](https://github.com/user-attachments/assets/231cb4c6-9a6e-45d7-9e7e-92e49c1b2d2e)
+![image](https://github.com/user-attachments/assets/5b764330-8ce7-413a-b736-b8d92f8cbb91)
+![image](https://github.com/user-attachments/assets/c7feafb5-7633-4e45-9e34-91d0ab2b1166)
+
 
 
 ---
